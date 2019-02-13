@@ -1,3 +1,6 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
+
 # 机器学习中的矩阵、向量求导
 
 
@@ -20,6 +23,9 @@
 因此，本教程的符号体系有可能与其他书籍或讲义不一致，求导结果也可能不一致（例如相差一次矩阵转置，或者是结果矩阵是否平铺成向量等），使用者需自行注意。另外，本教程中有很多笔者自己的评论，例如关于变形的技巧、如何记忆公式、如何理解其他的教程中给出的和本教程中形式不同的结果等。
 
 文中如有错漏，请联系 ruanchong_ruby@163.com，我会尽快订正。
+
+
+
 
 
 
